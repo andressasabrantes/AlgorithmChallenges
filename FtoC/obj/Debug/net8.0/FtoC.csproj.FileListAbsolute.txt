@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\bin\Debug\net8.0\FtoC.exe
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\bin\Debug\net8.0\FtoC.deps.json
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\bin\Debug\net8.0\FtoC.runtimeconfig.json
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\bin\Debug\net8.0\FtoC.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\bin\Debug\net8.0\FtoC.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\refint\FtoC.dll
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.pdb
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\FtoC.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Área de Trabalho\CodingChallenges\FtoC\obj\Debug\net8.0\ref\FtoC.dll
